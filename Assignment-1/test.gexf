@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>18/09/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="white rabbit" label="white rabbit" />
+      <node id="rabbit" label="rabbit" />
+      <node id="court" label="court" />
+      <node id="queen" label="queen" />
+      <node id="frog" label="frog" />
+      <node id="dee" label="dee" />
+      <node id="alice" label="alice" />
+      <node id="duchess" label="duchess" />
+      <node id="knave" label="knave" />
+      <node id="king" label="king" />
+      <node id="hatter" label="hatter" />
+      <node id="jury" label="jury" />
+      <node id="mock turtle" label="mock turtle" />
+      <node id="red queen" label="red queen" />
+      <node id="carroll" label="carroll" />
+      <node id="dormouse" label="dormouse" />
+      <node id="caterpillar" label="caterpillar" />
+      <node id="jabberwocky" label="jabberwocky" />
+      <node id="everybody" label="everybody" />
+      <node id="white queen" label="white queen" />
+      <node id="queen of hearts" label="queen of hearts" />
+      <node id="others" label="others" />
+      <node id="cat" label="cat" />
+      <node id="jurors" label="jurors" />
+      <node id="humpty dumpty" label="humpty dumpty" />
+      <node id="gryphon" label="gryphon" />
+      <node id="march hare" label="march hare" />
+      <node id="dum" label="dum" />
+      <node id="one juror" label="one juror" />
+      <node id="all the gardeners" label="all the gardeners" />
+    </nodes>
+    <edges>
+      <edge id="0" source="white rabbit" target="rabbit" weight="3.0" />
+      <edge id="1" source="white rabbit" target="court" weight="3.0" />
+      <edge id="2" source="white rabbit" target="queen" weight="3.0" />
+      <edge id="3" source="white rabbit" target="frog" weight="1.0" />
+      <edge id="4" source="white rabbit" target="dee" weight="1.0" />
+      <edge id="5" source="white rabbit" target="alice" weight="9.0" />
+      <edge id="6" source="white rabbit" target="duchess" weight="5.0" />
+      <edge id="7" source="white rabbit" target="knave" weight="1.0" />
+      <edge id="8" source="white rabbit" target="king" weight="7.0" />
+      <edge id="9" source="white rabbit" target="hatter" weight="1.0" />
+      <edge id="10" source="white rabbit" target="jury" weight="3.0" />
+      <edge id="11" source="white rabbit" target="mock turtle" weight="1.0" />
+      <edge id="12" source="white rabbit" target="others" weight="1.0" />
+      <edge id="13" source="white rabbit" target="march hare" weight="3.0" />
+      <edge id="14" source="white rabbit" target="queen of hearts" weight="1.0" />
+      <edge id="15" source="rabbit" target="red queen" weight="1.0" />
+      <edge id="16" source="rabbit" target="queen" weight="2.0" />
+      <edge id="17" source="rabbit" target="alice" weight="4.0" />
+      <edge id="18" source="rabbit" target="king" weight="1.0" />
+      <edge id="19" source="rabbit" target="hatter" weight="1.0" />
+      <edge id="20" source="rabbit" target="carroll" weight="1.0" />
+      <edge id="21" source="rabbit" target="frog" weight="1.0" />
+      <edge id="22" source="rabbit" target="humpty dumpty" weight="1.0" />
+      <edge id="23" source="court" target="queen" weight="1.0" />
+      <edge id="24" source="court" target="dormouse" weight="2.0" />
+      <edge id="25" source="court" target="alice" weight="1.0" />
+      <edge id="26" source="court" target="duchess" weight="2.0" />
+      <edge id="27" source="court" target="king" weight="2.0" />
+      <edge id="28" source="court" target="jurors" weight="1.0" />
+      <edge id="29" source="court" target="jury" weight="1.0" />
+      <edge id="30" source="queen" target="caterpillar" weight="1.0" />
+      <edge id="31" source="queen" target="red queen" weight="3.0" />
+      <edge id="32" source="queen" target="frog" weight="3.0" />
+      <edge id="33" source="queen" target="others" weight="2.0" />
+      <edge id="34" source="queen" target="everybody" weight="2.0" />
+      <edge id="35" source="queen" target="alice" weight="32.0" />
+      <edge id="36" source="queen" target="duchess" weight="3.0" />
+      <edge id="37" source="queen" target="knave" weight="3.0" />
+      <edge id="38" source="queen" target="king" weight="4.0" />
+      <edge id="39" source="queen" target="hatter" weight="2.0" />
+      <edge id="40" source="queen" target="jury" weight="1.0" />
+      <edge id="41" source="queen" target="cat" weight="2.0" />
+      <edge id="42" source="queen" target="carroll" weight="1.0" />
+      <edge id="43" source="queen" target="dormouse" weight="2.0" />
+      <edge id="44" source="queen" target="gryphon" weight="1.0" />
+      <edge id="45" source="queen" target="white queen" weight="3.0" />
+      <edge id="46" source="frog" target="dormouse" weight="1.0" />
+      <edge id="47" source="frog" target="alice" weight="15.0" />
+      <edge id="48" source="frog" target="duchess" weight="6.0" />
+      <edge id="49" source="frog" target="king" weight="4.0" />
+      <edge id="50" source="frog" target="cat" weight="2.0" />
+      <edge id="51" source="frog" target="march hare" weight="1.0" />
+      <edge id="52" source="frog" target="knave" weight="1.0" />
+      <edge id="53" source="dee" target="red queen" weight="1.0" />
+      <edge id="54" source="dee" target="others" weight="1.0" />
+      <edge id="55" source="dee" target="dum" weight="16.0" />
+      <edge id="56" source="dee" target="caterpillar" weight="1.0" />
+      <edge id="57" source="dee" target="dormouse" weight="1.0" />
+      <edge id="58" source="dee" target="alice" weight="8.0" />
+      <edge id="59" source="dee" target="white queen" weight="1.0" />
+      <edge id="60" source="dee" target="mock turtle" weight="1.0" />
+      <edge id="61" source="dee" target="gryphon" weight="2.0" />
+      <edge id="62" source="dee" target="king" weight="1.0" />
+      <edge id="63" source="alice" target="caterpillar" weight="9.0" />
+      <edge id="64" source="alice" target="red queen" weight="34.0" />
+      <edge id="65" source="alice" target="others" weight="4.0" />
+      <edge id="66" source="alice" target="humpty dumpty" weight="17.0" />
+      <edge id="67" source="alice" target="march hare" weight="14.0" />
+      <edge id="68" source="alice" target="dum" weight="2.0" />
+      <edge id="69" source="alice" target="everybody" weight="5.0" />
+      <edge id="70" source="alice" target="dormouse" weight="9.0" />
+      <edge id="71" source="alice" target="gryphon" weight="13.0" />
+      <edge id="72" source="alice" target="one juror" weight="1.0" />
+      <edge id="73" source="alice" target="duchess" weight="26.0" />
+      <edge id="74" source="alice" target="knave" weight="3.0" />
+      <edge id="75" source="alice" target="white queen" weight="35.0" />
+      <edge id="76" source="alice" target="king" weight="35.0" />
+      <edge id="77" source="alice" target="hatter" weight="22.0" />
+      <edge id="78" source="alice" target="jury" weight="2.0" />
+      <edge id="79" source="alice" target="cat" weight="19.0" />
+      <edge id="80" source="alice" target="mock turtle" weight="27.0" />
+      <edge id="81" source="alice" target="all the gardeners" weight="1.0" />
+      <edge id="82" source="alice" target="carroll" weight="12.0" />
+      <edge id="83" source="alice" target="queen of hearts" weight="2.0" />
+      <edge id="84" source="duchess" target="others" weight="1.0" />
+      <edge id="85" source="duchess" target="march hare" weight="2.0" />
+      <edge id="86" source="duchess" target="everybody" weight="1.0" />
+      <edge id="87" source="duchess" target="dormouse" weight="2.0" />
+      <edge id="88" source="duchess" target="king" weight="3.0" />
+      <edge id="89" source="duchess" target="cat" weight="4.0" />
+      <edge id="90" source="duchess" target="queen of hearts" weight="1.0" />
+      <edge id="91" source="knave" target="king" weight="8.0" />
+      <edge id="92" source="knave" target="jury" weight="1.0" />
+      <edge id="93" source="knave" target="queen of hearts" weight="3.0" />
+      <edge id="94" source="king" target="caterpillar" weight="1.0" />
+      <edge id="95" source="king" target="red queen" weight="2.0" />
+      <edge id="96" source="king" target="jurors" weight="1.0" />
+      <edge id="97" source="king" target="jabberwocky" weight="1.0" />
+      <edge id="98" source="king" target="march hare" weight="6.0" />
+      <edge id="99" source="king" target="everybody" weight="1.0" />
+      <edge id="100" source="king" target="gryphon" weight="1.0" />
+      <edge id="101" source="king" target="humpty dumpty" weight="3.0" />
+      <edge id="102" source="king" target="dormouse" weight="1.0" />
+      <edge id="103" source="king" target="white queen" weight="2.0" />
+      <edge id="104" source="king" target="hatter" weight="10.0" />
+      <edge id="105" source="king" target="jury" weight="7.0" />
+      <edge id="106" source="king" target="cat" weight="3.0" />
+      <edge id="107" source="king" target="carroll" weight="1.0" />
+      <edge id="108" source="king" target="queen of hearts" weight="3.0" />
+      <edge id="109" source="king" target="mock turtle" weight="1.0" />
+      <edge id="110" source="hatter" target="march hare" weight="11.0" />
+      <edge id="111" source="hatter" target="dormouse" weight="6.0" />
+      <edge id="112" source="hatter" target="humpty dumpty" weight="1.0" />
+      <edge id="113" source="hatter" target="jury" weight="1.0" />
+      <edge id="114" source="hatter" target="queen of hearts" weight="2.0" />
+      <edge id="115" source="mock turtle" target="gryphon" weight="19.0" />
+      <edge id="116" source="mock turtle" target="cat" weight="2.0" />
+      <edge id="117" source="mock turtle" target="carroll" weight="1.0" />
+      <edge id="118" source="mock turtle" target="queen of hearts" weight="1.0" />
+      <edge id="119" source="red queen" target="jabberwocky" weight="1.0" />
+      <edge id="120" source="red queen" target="everybody" weight="1.0" />
+      <edge id="121" source="red queen" target="white queen" weight="7.0" />
+      <edge id="122" source="red queen" target="queen of hearts" weight="1.0" />
+      <edge id="123" source="red queen" target="humpty dumpty" weight="1.0" />
+      <edge id="124" source="dormouse" target="march hare" weight="5.0" />
+      <edge id="125" source="everybody" target="march hare" weight="1.0" />
+      <edge id="126" source="everybody" target="humpty dumpty" weight="1.0" />
+      <edge id="127" source="white queen" target="cat" weight="1.0" />
+      <edge id="128" source="white queen" target="queen of hearts" weight="1.0" />
+      <edge id="129" source="cat" target="gryphon" weight="1.0" />
+      <edge id="130" source="jurors" target="one juror" weight="1.0" />
+      <edge id="131" source="humpty dumpty" target="gryphon" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
